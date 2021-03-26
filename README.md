@@ -7,7 +7,7 @@ In this workshop, you'll build a Sims-style character creation screen.
 
 Desktop:
 
-<img alt="Desktop-sized screenshot of the character creation screen" src="./docs/mockup.png" style="width: 100%;" />
+<img alt="Desktop-sized screenshot of the character creation screen" src= "./docs/mockup.png" style="width: 100%;" />
 
 For this workshop, we're only targeting desktops (although if you're so inclined, creating a mobile variant would make a great stretch goal!).
 

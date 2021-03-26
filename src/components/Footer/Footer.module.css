@@ -6,3 +6,10 @@
   text-align: center;
 }
 
+.footer a {
+  color: navajowhite;
+  transition:color .5s;
+}
+.footer a:hover {
+  color: white;
+}
